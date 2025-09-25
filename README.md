@@ -77,7 +77,9 @@ python -m grpc_tools.protoc --proto_path="C:\Program Files\RoadRunner R2025a\bin
 - Navigate to: `cd C:\Program Files\RoadRunner R2025a\bin\win64`. It programmatically starts the RoadRunner application with the API enabled and waits for it to initialize.
 - Run `\AppRoadRunner --projectPath "C:\rr" --apiPort 54321` there by replacing `C:\rr` with your cloned folder's  full location.
 
-##### Run the python file
+---
+
+### ⌗ Run the python script
 ```ps
 python automation\main.py
 ```

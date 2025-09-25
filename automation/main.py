@@ -84,7 +84,7 @@ def main():
     if not setup_environment():
         sys.exit(1) # Exit if setup fails
 
-    print("\n--- 🇮🇳 IndiaSim Digital Twin - Fully Automated Workflow ---")
+    print("\n--- Fully Automated Workflow ---")
     matlab_eng = None
     
     try:
