@@ -1,0 +1,34 @@
+FileVersion: 4
+Uuid: {b946778c-56eb-4a21-bc8d-fb5c390526a7}
+SavedWith: 
+Restriction: AssetLibrary
+Content: 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8.76 35.01">
+  <defs>
+    <style>
+      .b {
+        fill: #e11f26;
+      }
+
+      .b, .c, .d {
+        stroke-width: 0px;
+      }
+
+      .c {
+        fill: none;
+      }
+
+      .d {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="d" d="m1.41,35.01c-.77,0-1.4-.63-1.4-1.4V1.4C.01.63.64,0,1.41,0h5.95c.77,0,1.4.63,1.4,1.4v32.21c0,.77-.63,1.4-1.4,1.4H1.41Z"/>
+  <g>
+    <path class="b" d="m1.41,35.01c-.37,0-.73-.15-.99-.41l8.34-8.34v7.35c0,.77-.63,1.4-1.4,1.4H1.41Z"/>
+    <polygon class="b" points="0 26.26 0 17.51 8.76 8.76 8.76 17.51 0 26.26"/>
+    <path class="b" d="m0,8.76V1.4C0,.63.63,0,1.4,0h5.95c.37,0,.73.15.99.41L0,8.76Z"/>
+    <path class="c" d="m1.41,35.01c-.77,0-1.4-.63-1.4-1.4V1.4C.01.63.64,0,1.41,0h5.95c.77,0,1.4.63,1.4,1.4v32.21c0,.77-.63,1.4-1.4,1.4H1.41Z"/>
+  </g>
+</svg>

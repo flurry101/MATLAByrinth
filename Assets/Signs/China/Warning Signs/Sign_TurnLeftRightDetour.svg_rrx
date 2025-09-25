@@ -1,0 +1,83 @@
+FileVersion: 4
+Uuid: {fe82f2f5-46e5-4f02-96d4-72a4f79255b4}
+SavedWith: 
+Restriction: AssetLibrary
+Content: 
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 22.68 19.84" style="enable-background:new 0 0 22.68 19.84;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FBB03B;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;}
+	.st2{fill:#FBB03B;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#C0111E;}
+	.st5{opacity:0.5;}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#C0111E;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#275AA8;}
+	.st9{fill:#FDFDFD;}
+	.st10{fill:#275AA8;}
+	.st11{opacity:0.9979;fill-rule:evenodd;clip-rule:evenodd;enable-background:new    ;}
+	.st12{fill:#9FCB3A;}
+	.st13{fill:#CC0000;}
+	.st14{fill:#FFFF00;}
+	.st15{fill:#009933;}
+	.st16{fill:#F15A24;}
+	.st17{fill-rule:evenodd;clip-rule:evenodd;fill-opacity:0.9569;}
+	.st18{opacity:0.9999;fill-rule:evenodd;clip-rule:evenodd;enable-background:new    ;}
+	.st19{fill-opacity:0.9569;}
+	.st20{opacity:0.9999;fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;enable-background:new    ;}
+	.st21{opacity:0.9999;fill-rule:evenodd;clip-rule:evenodd;fill:#C0111E;enable-background:new    ;}
+	.st22{fill-rule:evenodd;clip-rule:evenodd;fill:#9FCB3A;}
+	.st23{fill-rule:evenodd;clip-rule:evenodd;fill:#C14732;}
+	.st24{fill:#E31E26;}
+	.st25{display:none;}
+	.st26{display:inline;}
+	.st27{display:inline;fill:#FFFFFF;}
+	.st28{display:inline;opacity:0.54;fill:#FFFFFF;}
+	.st29{fill:#214A3A;}
+	.st30{fill-rule:evenodd;clip-rule:evenodd;fill:#214A3A;}
+	.st31{fill:#FF0000;}
+	.st32{fill:#93278F;}
+	.st33{fill:#ED1C24;}
+	.st34{opacity:0.93;fill-rule:evenodd;clip-rule:evenodd;fill:#FBB03B;}
+	.st35{fill:#325BAA;}
+	.st36{fill:#409B42;}
+	.st37{fill:#F1EB35;}
+	.st38{fill:#66BA3F;}
+	.st39{fill:#E42526;}
+	.st40{fill:#8D7130;}
+	.st41{fill:#67BA42;}
+	.st42{opacity:0.82;fill:#F1EB35;}
+	.st43{opacity:0.82;fill:#CDDF32;}
+	.st44{fill-rule:evenodd;clip-rule:evenodd;fill:#9F6A36;}
+	.st45{fill:#9F6A36;}
+	.st46{fill-rule:evenodd;clip-rule:evenodd;fill:#409B42;}
+	.st47{fill-rule:evenodd;clip-rule:evenodd;fill:#2D9B47;}
+	.st48{fill:#FF1D25;}
+	.st49{fill-rule:evenodd;clip-rule:evenodd;fill:#F1EB35;}
+	.st50{fill:#DE7027;}
+	.st51{fill:#707070;}
+	.st52{fill:#2D9B47;}
+	.st53{fill:none;}
+	.st54{fill:#F2F2F2;}
+</style>
+<g id="g3437_00000000909466011322519950000001732986263847519878_" transform="translate(-274.02574,116.3799)">
+	<path id="path1124-2" class="st2" d="M274.19-98.4l10.08-17.35c0.22-0.39,0.64-0.62,1.09-0.62c0.45,0,0.87,0.24,1.09,0.62
+		l10.08,17.35c0.22,0.39,0.22,0.86,0,1.24c-0.22,0.38-0.64,0.62-1.09,0.62h-20.16c-0.45,0-0.86-0.24-1.09-0.62
+		C273.97-97.54,273.97-98.02,274.19-98.4L274.19-98.4z"/>
+	<path id="path1126-1" d="M275.28-96.91h20.16c0.31,0,0.6-0.17,0.76-0.44c0.16-0.27,0.16-0.6,0-0.87l-10.08-17.35
+		c-0.16-0.27-0.45-0.44-0.76-0.44c-0.32,0-0.61,0.17-0.76,0.44l-10.08,17.35c-0.16,0.27-0.16,0.6,0,0.87
+		C274.68-97.08,274.97-96.91,275.28-96.91L275.28-96.91z M293.92-98.65h-17.12l8.56-14.73L293.92-98.65z"/>
+	<path id="path65" class="st1" d="M282.98-106.24l-1.24,1.27v1.16l0.81-0.83v1.86c0,0.49,0.4,0.88,0.89,0.88h0.73h0.12
+		c0.18,0,0.32,0.14,0.32,0.32v1.63h0.86v-1.88c0-0.49-0.4-0.88-0.89-0.88h-0.41h-0.44c-0.18,0-0.32-0.14-0.32-0.32v-1.6l0.75,0.83
+		v-1.16L282.98-106.24z"/>
+	<path id="path67" class="st1" d="M287.8-106.24l1.24,1.27v1.16l-0.81-0.83v1.86c0,0.49-0.4,0.88-0.89,0.88h-0.73h-0.12
+		c-0.18,0-0.32,0.14-0.32,0.32v1.63h-0.86v-1.88c0-0.49,0.4-0.88,0.89-0.88h0.41h0.44c0.18,0,0.32-0.14,0.32-0.32v-1.6l-0.75,0.83
+		v-1.16L287.8-106.24z"/>
+	<path id="rect69" d="M284.44-109.8v0.01v0.91c0,0,0.1,1.05,0.27,1.92c0.14,0.72,0.22,1.29,0.69,1.29c0.46,0,0.54-0.61,0.67-1.3
+		c0.16-0.89,0.25-1.91,0.25-1.91v-0.91v-0.01H284.44z"/>
+</g>
+</svg>

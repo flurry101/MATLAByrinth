@@ -1,0 +1,93 @@
+FileVersion: 4
+Uuid: {bba7d576-8b58-4031-8041-894e2216ef69}
+SavedWith: 
+Restriction: AssetLibrary
+Content: 
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 22.68 19.84" style="enable-background:new 0 0 22.68 19.84;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FBB03B;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;}
+	.st2{fill:#FBB03B;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#C0111E;}
+	.st5{opacity:0.5;}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#C0111E;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#275AA8;}
+	.st9{fill:#FDFDFD;}
+	.st10{fill:#275AA8;}
+	.st11{opacity:0.9979;fill-rule:evenodd;clip-rule:evenodd;enable-background:new    ;}
+	.st12{fill:#9FCB3A;}
+	.st13{fill:#CC0000;}
+	.st14{fill:#FFFF00;}
+	.st15{fill:#009933;}
+	.st16{fill:#F15A24;}
+	.st17{fill-rule:evenodd;clip-rule:evenodd;fill-opacity:0.9569;}
+	.st18{opacity:0.9999;fill-rule:evenodd;clip-rule:evenodd;enable-background:new    ;}
+	.st19{fill-opacity:0.9569;}
+	.st20{opacity:0.9999;fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;enable-background:new    ;}
+	.st21{opacity:0.9999;fill-rule:evenodd;clip-rule:evenodd;fill:#C0111E;enable-background:new    ;}
+	.st22{fill-rule:evenodd;clip-rule:evenodd;fill:#9FCB3A;}
+	.st23{fill-rule:evenodd;clip-rule:evenodd;fill:#C14732;}
+	.st24{fill:#E31E26;}
+	.st25{display:none;}
+	.st26{display:inline;}
+	.st27{display:inline;fill:#FFFFFF;}
+	.st28{display:inline;opacity:0.54;fill:#FFFFFF;}
+	.st29{fill:#214A3A;}
+	.st30{fill-rule:evenodd;clip-rule:evenodd;fill:#214A3A;}
+	.st31{fill:#FF0000;}
+	.st32{fill:#93278F;}
+	.st33{fill:#ED1C24;}
+	.st34{opacity:0.93;fill-rule:evenodd;clip-rule:evenodd;fill:#FBB03B;}
+	.st35{fill:#325BAA;}
+	.st36{fill:#409B42;}
+	.st37{fill:#F1EB35;}
+	.st38{fill:#66BA3F;}
+	.st39{fill:#E42526;}
+	.st40{fill:#8D7130;}
+	.st41{fill:#67BA42;}
+	.st42{opacity:0.82;fill:#F1EB35;}
+	.st43{opacity:0.82;fill:#CDDF32;}
+	.st44{fill-rule:evenodd;clip-rule:evenodd;fill:#9F6A36;}
+	.st45{fill:#9F6A36;}
+	.st46{fill-rule:evenodd;clip-rule:evenodd;fill:#409B42;}
+	.st47{fill-rule:evenodd;clip-rule:evenodd;fill:#2D9B47;}
+	.st48{fill:#FF1D25;}
+	.st49{fill-rule:evenodd;clip-rule:evenodd;fill:#F1EB35;}
+	.st50{fill:#DE7027;}
+	.st51{fill:#707070;}
+	.st52{fill:#2D9B47;}
+	.st53{fill:none;}
+	.st54{fill:#F2F2F2;}
+</style>
+<g>
+	<path id="path288_00000159443276241275765320000004532810663780236930_" class="st2" d="M22.51,17.98c0.22,0.39,0.22,0.86,0,1.24
+		c-0.22,0.38-0.64,0.62-1.09,0.62H1.26c-0.45,0-0.86-0.24-1.09-0.62c-0.22-0.38-0.23-0.86,0-1.24L10.25,0.62
+		C10.47,0.24,10.89,0,11.34,0c0.45,0,0.87,0.24,1.09,0.62L22.51,17.98L22.51,17.98z"/>
+	<path id="path290_00000097468741592939753020000009835241094816996533_" d="M21.42,19.47c0.31,0,0.6-0.17,0.76-0.44
+		c0.16-0.27,0.16-0.6,0-0.87L12.1,0.81c-0.16-0.27-0.45-0.44-0.76-0.44c-0.32,0-0.61,0.17-0.76,0.44L0.49,18.16
+		c-0.16,0.27-0.16,0.6,0,0.87c0.16,0.27,0.45,0.44,0.76,0.44H21.42L21.42,19.47z M11.34,2.99l8.56,14.73H2.78L11.34,2.99z"/>
+	<g>
+		<rect x="14.53" y="10.67" width="0.26" height="1.5"/>
+		<rect x="15.3" y="10.67" width="0.26" height="1.5"/>
+		<rect x="14.53" y="13.03" width="0.26" height="1.5"/>
+		<rect x="15.3" y="13.03" width="0.26" height="1.5"/>
+		<rect x="14.53" y="15.4" width="0.26" height="1.5"/>
+		<rect x="15.3" y="15.4" width="0.26" height="1.5"/>
+	</g>
+	<g>
+		<rect x="7.47" y="10.67" width="0.26" height="1.5"/>
+		<rect x="8.24" y="10.67" width="0.26" height="1.5"/>
+		<rect x="7.47" y="13.03" width="0.26" height="1.5"/>
+		<rect x="8.24" y="13.03" width="0.26" height="1.5"/>
+		<rect x="7.47" y="15.4" width="0.26" height="1.5"/>
+		<rect x="8.24" y="15.4" width="0.26" height="1.5"/>
+	</g>
+	<path d="M11.57,9.79l-1.56,1.62v0.46v0.46l1.09-1.13v4.42l-1.09-1.13v0.46v0.46l1.56,1.62l1.56-1.62v-0.46v-0.46l-1.11,1.15v-4.45
+		l1.11,1.15v-0.46v-0.46L11.57,9.79z M11.55,10.74l0.03-0.03l0.03,0.03H11.55z"/>
+</g>
+</svg>

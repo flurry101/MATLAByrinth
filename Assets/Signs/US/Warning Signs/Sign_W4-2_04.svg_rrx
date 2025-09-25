@@ -1,0 +1,35 @@
+FileVersion: 4
+Uuid: {a097ae8b-a4c3-43a0-b572-c9a8a97b5e6c}
+SavedWith: 
+Restriction: AssetLibrary
+Content: 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.05 87.05">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #f1607c;
+      }
+
+      .cls-1, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #221f1f;
+      }
+    </style>
+  </defs>
+  <path class="cls-3" d="m1.25,40.5L40.5,1.25c1.66-1.66,4.38-1.66,6.04,0l39.26,39.26c1.66,1.66,1.66,4.38,0,6.04l-39.26,39.26c-1.66,1.66-4.38,1.66-6.04,0L1.25,46.54c-1.66-1.66-1.66-4.38,0-6.04"/>
+  <path class="cls-4" d="m2.19,41.13L41.13,2.19c1.32-1.32,3.47-1.32,4.79,0l38.94,38.94c1.32,1.32,1.32,3.47,0,4.79l-38.94,38.94c-1.32,1.32-3.47,1.32-4.79,0L2.19,45.92c-1.32-1.32-1.32-3.47,0-4.79"/>
+  <path class="cls-1" d="m3.41,42.33L42.33,3.41c.66-.66,1.74-.66,2.39,0l38.92,38.92c.66.66.66,1.74,0,2.4l-38.92,38.92c-.66.66-1.74.66-2.39,0L3.41,44.72c-.66-.66-.66-1.74,0-2.4"/>
+  <rect class="cls-2" x="27.39" y="22.55" width="6.7" height="41.93"/>
+  <path class="cls-2" d="m45.94,22.55v12.55s5.79,7.05,7.01,8.52v20.86h6.7v-23.26s-5.79-7.05-7.01-8.52v-10.15h-6.7Z"/>
+  <rect class="cls-2" x="45.94" y="60.11" width="2.48" height="4.38"/>
+  <rect class="cls-2" x="45.94" y="52.66" width="2.48" height="4.38"/>
+  <rect class="cls-2" x="45.94" y="45.21" width="2.48" height="4.38"/>
+</svg>

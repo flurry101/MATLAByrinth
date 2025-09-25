@@ -1,0 +1,28 @@
+FileVersion: 4
+Uuid: {1854cd3f-7f1f-4028-b2c2-223bb3b19dff}
+SavedWith: 
+Restriction: AssetLibrary
+Content: 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72.01 72.01">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffd046;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #221f1f;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m38.34,71.04c-1.29,1.29-3.38,1.29-4.67,0L.97,38.34c-1.29-1.29-1.29-3.38,0-4.67L33.67.97c1.29-1.29,3.38-1.29,4.67,0l32.7,32.7c1.29,1.29,1.29,3.38,0,4.67l-32.7,32.7Z"/>
+  <path class="cls-2" d="m70.39,34.32L37.69,1.62c-.93-.93-2.44-.93-3.38,0L1.62,34.32c-.93.93-.93,2.44,0,3.37l32.7,32.7c.93.93,2.44.93,3.38,0l32.7-32.7c.93-.93.93-2.44,0-3.37m-.91,2.46l-32.7,32.7c-.43.43-1.13.43-1.56,0L2.52,36.78c-.43-.43-.43-1.13,0-1.56L35.23,2.52c.43-.43,1.13-.43,1.56,0l32.7,32.7c.43.43.43,1.13,0,1.56"/>
+  <rect class="cls-2" x="31.6" y="10.56" width="8.83" height="50.88"/>
+  <rect class="cls-2" x="36.01" y="21.05" width="16.68" height="8.83"/>
+  <rect class="cls-2" x="36.01" y="42.13" width="16.68" height="8.83"/>
+</svg>

@@ -1,0 +1,32 @@
+FileVersion: 4
+Uuid: {7a42a6e3-0ad5-4321-88f9-a81dcac235a2}
+SavedWith: 
+Restriction: AssetLibrary
+Content: 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 57.6 28.8">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #006f53;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m3.6,0h50.4c1.99,0,3.6,1.61,3.6,3.6v21.6c0,1.99-1.61,3.6-3.6,3.6H3.6c-1.99,0-3.6-1.61-3.6-3.6V3.6C0,1.61,1.61,0,3.6,0"/>
+  <path class="cls-2" d="m3.6,1.2h50.4c1.33,0,2.4,1.07,2.4,2.4v21.6c0,1.33-1.07,2.4-2.4,2.4H3.6c-1.33,0-2.4-1.07-2.4-2.4V3.6c0-1.33,1.07-2.4,2.4-2.4"/>
+  <path class="cls-3" d="m24.26,21.6l-4.95-14.4h-2.16l-4.95,14.4h2.39l1.42-4.14h4.46l1.42,4.14h2.39Zm-4.59-6.39h-2.88l1.44-4.21,1.44,4.21Z"/>
+  <polygon class="cls-3" points="35.73 21.6 35.73 19.35 29.21 19.35 29.21 7.2 26.96 7.2 26.96 21.6 35.73 21.6"/>
+  <polygon class="cls-3" points="45.4 9.45 45.4 7.2 36.63 7.2 36.63 9.45 39.89 9.45 39.89 21.6 42.14 21.6 42.14 9.45 45.4 9.45"/>
+</svg>

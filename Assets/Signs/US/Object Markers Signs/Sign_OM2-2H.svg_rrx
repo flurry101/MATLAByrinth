@@ -1,0 +1,17 @@
+FileVersion: 4
+Uuid: {9f140a44-a691-408d-8949-d214f0f7043b}
+SavedWith: 
+Restriction: AssetLibrary
+Content: 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35.81 17.91">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffd046;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m35.81,3.58v10.74c0,1.97-1.61,3.58-3.58,3.58H3.58c-1.97,0-3.58-1.61-3.58-3.58V3.58C0,1.61,1.61,0,3.58,0h28.65c1.97,0,3.58,1.61,3.58,3.58"/>
+</svg>

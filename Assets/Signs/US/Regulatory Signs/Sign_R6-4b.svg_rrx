@@ -1,0 +1,29 @@
+FileVersion: 4
+Uuid: {840a9282-e083-433c-b8f6-c490e8e30819}
+SavedWith: 
+Restriction: AssetLibrary
+Content: 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 144 57.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #221f1f;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="m3.6,0h136.8C142.39,0,144,1.61,144,3.6v50.4c0,1.99-1.61,3.6-3.6,3.6H3.6c-1.99,0-3.6-1.61-3.6-3.6V3.6C0,1.61,1.61,0,3.6,0Z"/>
+  <polygon class="cls-2" points="37.81 2.56 54.45 2.56 71.09 28.8 54.45 55.04 37.81 55.04 54.45 28.8 37.81 2.56"/>
+  <polygon class="cls-2" points="72.91 2.56 89.55 2.56 106.19 28.8 89.55 55.04 72.91 55.04 89.55 28.8 72.91 2.56"/>
+  <polygon class="cls-2" points="2.72 2.56 19.36 2.56 36 28.8 19.36 55.04 2.72 55.04 19.36 28.8 2.72 2.56"/>
+  <polygon class="cls-2" points="108 2.56 124.64 2.56 141.28 28.8 124.64 55.04 108 55.04 124.64 28.8 108 2.56"/>
+</svg>

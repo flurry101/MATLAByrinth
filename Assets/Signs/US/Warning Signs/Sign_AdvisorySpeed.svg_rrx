@@ -1,0 +1,36 @@
+FileVersion: 4
+Uuid: {9c42d796-33b3-4ba0-a2e0-b37308560df8}
+SavedWith: 
+Restriction: AssetLibrary
+Content: 
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.3, SVG Export Plug-In . SVG Version: 9.03 Build 53313)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 63.5 63.3" style="enable-background:new 0 0 63.5 63.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFF200;}
+	.st1{fill:none;stroke:#FFF200;stroke-width:0.465;stroke-miterlimit:3.864;}
+	.st2{fill:none;stroke:#231F20;stroke-width:1.627;stroke-miterlimit:3.864;}
+	.st3{fill:#231F20;}
+	.st4{display:none;}
+</style>
+<g id="Layer_1_00000021080532307814540380000001294766922292792200_">
+	<path class="st0" d="M4.6,63.1c-2.4,0-4.3-1.9-4.3-4.3V4.6c0-2.4,1.9-4.3,4.3-4.3H59c2.4,0,4.3,1.9,4.3,4.3v54.2
+		c0,2.4-1.9,4.3-4.3,4.3H4.6"/>
+	<path class="st1" d="M4.5,63c-2.4,0-4.3-1.9-4.3-4.3V4.5c0-2.4,1.9-4.3,4.3-4.3H59c2.4,0,4.3,1.9,4.3,4.3v54.2
+		c0,2.4-1.9,4.3-4.3,4.3H4.5z"/>
+	<path class="st2" d="M5.7,61.4c-2,0-3.5-1.6-3.5-3.5V5.5c0-2,1.6-3.5,3.5-3.5h52.3c2,0,3.5,1.6,3.5,3.5v52.3c0,2-1.6,3.5-3.5,3.5
+		H5.7z"/>
+	<g>
+		<path class="st3" d="M23.2,54.7h-1.9v-6.5l-3.1,6.5l-3.1-6.5v6.5h-1.9V44.1h1.9l3.1,6.3l3.1-6.3h1.9V54.7z"/>
+		<path class="st3" d="M36.8,47.3c0,0.6-0.2,1.1-0.4,1.6s-0.7,0.9-1.2,1.2c-0.5,0.3-1.1,0.4-1.9,0.4h-3v4.1h-1.9V44.1h4.9
+			c0.7,0,1.3,0.2,1.9,0.4c0.5,0.3,0.9,0.7,1.2,1.2S36.8,46.8,36.8,47.3z M34.9,47.3c0-0.4-0.1-0.7-0.4-1S33.8,46,33.3,46h-3.1v2.6
+			h3.1c0.5,0,0.8-0.1,1.1-0.4C34.7,48,34.9,47.7,34.9,47.3z"/>
+		<path class="st3" d="M49.9,54.7H48v-4.6l-4.7,0v4.6h-1.9V44.1h1.9v4.1H48v-4.1h1.9V54.7z"/>
+	</g>
+</g>
+<g id="Texts">
+</g>
+<g id="Layer_3" class="st4">
+</g>
+</svg>

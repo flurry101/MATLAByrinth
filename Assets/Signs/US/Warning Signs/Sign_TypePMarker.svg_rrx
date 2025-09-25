@@ -1,0 +1,24 @@
+FileVersion: 4
+Uuid: {0fcf5663-1bf9-49d3-9ea9-b01b82f08080}
+SavedWith: 
+Restriction: AssetLibrary
+Content: 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23.36078 70.56963">
+  <defs>
+    <style>
+      .b, .c {
+        stroke-width: 0px;
+      }
+
+      .c {
+        fill: #fff200;
+      }
+    </style>
+  </defs>
+  <polygon class="b" points="20.97306 70.56963 2.38773 70.56963 .00003 68.43291 .00003 2.13675 2.38773 .00003 20.97306 .00003 23.36076 2.13675 23.36076 68.43291 20.97306 70.56963"/>
+  <polygon class="c" points="0 25.71462 23.36078 44.50334 23.36078 33.39878 0 14.60999 0 25.71462"/>
+  <polygon class="c" points="23.36078 20.69007 23.36078 9.5855 11.44284 0 2.38771 0 .13857 2.01273 23.36078 20.69007"/>
+  <polygon class="c" points="0 49.52795 23.36078 68.31668 23.36078 57.21211 0 38.42333 0 49.52795"/>
+  <polygon class="c" points="0 62.23654 0 68.43288 2.38771 70.56962 10.36083 70.56962 0 62.23654"/>
+</svg>

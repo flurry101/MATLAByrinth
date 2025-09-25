@@ -1,0 +1,32 @@
+FileVersion: 4
+Uuid: {c88680ae-f980-4838-9cf2-49ad18b6886e}
+SavedWith: 
+Restriction: AssetLibrary
+Content: 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8.75 35">
+  <defs>
+    <style>
+      .b {
+        fill: #e11f26;
+      }
+
+      .b, .c, .d {
+        stroke-width: 0px;
+      }
+
+      .c {
+        fill: none;
+      }
+
+      .d {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="d" d="m1.4,35C.63,35,0,34.37,0,33.6V1.4C0,.63.63,0,1.4,0h5.95c.77,0,1.4.63,1.4,1.4v32.2c0,.77-.63,1.4-1.4,1.4,0,0-5.95,0-5.95,0Z"/>
+  <path class="c" d="m1.4,35C.63,35,0,34.37,0,33.6V1.4C0,.63.63,0,1.4,0h5.95c.77,0,1.4.63,1.4,1.4v32.2c0,.77-.63,1.4-1.4,1.4,0,0-5.95,0-5.95,0Z"/>
+  <polygon class="b" points="8.7 26.3 8.7 8.62 .03 17.47 8.7 26.3"/>
+  <path class="b" d="m7.38,35c.37,0,.72-.15.99-.41L.03,26.25v7.35c0,.77.63,1.4,1.4,1.4h5.95Z"/>
+  <path class="b" d="m0,8.75V1.4C0,.63.63,0,1.4,0h5.95c.37,0,.73.15.99.41L0,8.75Z"/>
+</svg>

@@ -1,0 +1,30 @@
+FileVersion: 4
+Uuid: {0bdeabd8-e0e5-4e88-b58b-b04a18f9a1b2}
+SavedWith: 
+Restriction: AssetLibrary
+Content: 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64.8 64.8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #005a9c;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="m5.74,0h53.32c3.16,0,5.74,2.58,5.74,5.74v53.32c0,3.16-2.58,5.74-5.74,5.74H5.74c-3.16,0-5.74-2.58-5.74-5.74V5.74C0,2.58,2.58,0,5.74,0"/>
+  <path class="cls-1" d="m5.74,1.64h53.32c2.26,0,4.1,1.85,4.1,4.1v53.32c0,2.26-1.85,4.1-4.1,4.1H5.74c-2.26,0-4.1-1.85-4.1-4.1V5.74C1.64,3.49,3.49,1.64,5.74,1.64"/>
+  <path class="cls-3" d="m6.73,45.54h5.39-5.39Zm25.73,3.27H6.73v-3.27h5.39L32.46,13.02l20.35,32.52h5.27v3.27h-25.62Zm0-16.93l-8.46,13.66h16.93l-8.46-13.66Zm25.62,13.66h-5.27,5.27Z"/>
+</svg>

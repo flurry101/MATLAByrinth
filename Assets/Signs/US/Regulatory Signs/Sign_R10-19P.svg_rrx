@@ -1,0 +1,42 @@
+FileVersion: 4
+Uuid: {b40d625e-8de8-4269-9c5d-9cfe36f8015d}
+SavedWith: 
+Restriction: AssetLibrary
+Content: 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64.8 32.4">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-4 {
+        fill: #010101;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #221f1f;
+      }
+
+      .cls-4 {
+        font-family: Helvetica, Helvetica;
+        font-size: 1.53px;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="m4.05,0h56.7c2.23,0,4.05,1.81,4.05,4.05v24.3c0,2.23-1.81,4.05-4.05,4.05H4.05c-2.24,0-4.05-1.82-4.05-4.05V4.05C0,1.82,1.82,0,4.05,0Z"/>
+  <path class="cls-3" d="m60.75,1.01H4.05c-1.67,0-3.04,1.36-3.04,3.04v24.3c0,1.68,1.36,3.04,3.04,3.04h56.7c1.67,0,3.04-1.36,3.04-3.04V4.05c0-1.67-1.36-3.04-3.04-3.04m1.86,27.34c0,1.02-.83,1.86-1.86,1.86H4.05c-1.02,0-1.86-.83-1.86-1.86V4.05c0-1.02.83-1.86,1.86-1.86h56.7c1.02,0,1.86.83,1.86,1.86v24.3Z"/>
+  <text class="cls-4" transform="translate(32.24 17.23) scale(4.65 1)"><tspan x="0" y="0"> </tspan></text>
+  <path class="cls-1" d="m29.36,11.55h6.08c.44,0,.8.36.8.8v2.5c0,.44-.36.8-.8.8h-6.08c-.44,0-.8-.36-.8-.8v-2.5c0-.44.36-.8.8-.8Z"/>
+  <path class="cls-3" d="m42.52,16.32h-20.25c-.44,0-.8.36-.8.8v10.01c0,.44.36.8.8.8h20.25c.44,0,.8-.36.8-.8v-10.01c0-.44-.36-.8-.8-.8m-10.12,10.02c-2.33,0-4.21-1.88-4.21-4.21s1.89-4.21,4.21-4.21,4.21,1.89,4.21,4.21-1.89,4.21-4.21,4.21"/>
+  <rect class="cls-1" x="32.08" y="4.46" width=".63" height="6.02"/>
+  <polygon class="cls-1" points="36.01 10.84 35.62 10.34 40.37 6.63 40.76 7.13 36.01 10.84"/>
+  <rect class="cls-1" x="37.12" y="12.4" width="6.03" height=".63" transform="translate(-1.85 9.55) rotate(-13.26)"/>
+  <rect class="cls-1" x="26.3" y="5.72" width=".63" height="6.02" transform="translate(3.35 24.34) rotate(-52.02)"/>
+  <rect class="cls-1" x="24.36" y="9.7" width=".63" height="6.02" transform="translate(6.61 33.78) rotate(-76.65)"/>
+</svg>

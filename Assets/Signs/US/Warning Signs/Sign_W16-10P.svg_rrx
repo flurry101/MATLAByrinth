@@ -1,0 +1,42 @@
+FileVersion: 4
+Uuid: {52e33617-6d99-4be1-946a-335c33570886}
+SavedWith: 
+Restriction: AssetLibrary
+Content: 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 36">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-4 {
+        fill: #010101;
+      }
+
+      .cls-2 {
+        fill: #ffd046;
+      }
+
+      .cls-3 {
+        fill: #231f20;
+      }
+
+      .cls-4 {
+        font-family: Helvetica, Helvetica;
+        font-size: .5px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" width="72" height="36" rx="4.5" ry="4.5"/>
+  <path class="cls-3" d="m67.5,1.12H4.5c-1.86,0-3.38,1.52-3.38,3.38v27c0,1.86,1.51,3.38,3.38,3.38h63c1.86,0,3.38-1.51,3.38-3.38V4.5c0-1.86-1.52-3.38-3.38-3.38m2.06,30.37c0,1.14-.93,2.06-2.06,2.06H4.5c-1.14,0-2.06-.93-2.06-2.06V4.5c0-1.14.92-2.06,2.06-2.06h63c1.14,0,2.06.92,2.06,2.06v27Z"/>
+  <text class="cls-4" transform="translate(35.81 18.13)"><tspan x="0" y="0"> </tspan></text>
+  <path class="cls-1" d="m32.62,12.83h6.75c.49,0,.89.4.89.89v2.77c0,.49-.4.89-.89.89h-6.75c-.49,0-.89-.4-.89-.89v-2.77c0-.49.4-.89.89-.89Z"/>
+  <path class="cls-3" d="m47.25,18.14h-22.49c-.49,0-.89.4-.89.89v11.13c0,.49.4.89.89.89h22.49c.49,0,.89-.4.89-.89v-11.13c0-.49-.4-.89-.89-.89m-11.25,11.13c-2.59,0-4.68-2.09-4.68-4.68s2.09-4.68,4.68-4.68,4.68,2.09,4.68,4.68-2.09,4.68-4.68,4.68"/>
+  <rect class="cls-1" x="35.65" y="4.96" width=".7" height="6.7"/>
+  <rect class="cls-1" x="39.08" y="9.36" width="6.7" height=".7" transform="translate(3.05 28.25) rotate(-38.1)"/>
+  <polygon class="cls-1" points="41.41 15.24 41.25 14.56 47.76 13.01 47.93 13.69 41.41 15.24"/>
+  <polygon class="cls-1" points="31.99 12.04 32.42 11.49 27.15 7.37 26.71 7.92 31.99 12.04"/>
+  <rect class="cls-1" x="27.06" y="10.78" width=".7" height="6.7" transform="translate(7.33 37.52) rotate(-76.62)"/>
+</svg>
