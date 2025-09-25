@@ -60,7 +60,7 @@ python setup.py install
 - Run the following commands to create a virtual environment and install the necessary packages. The main.py script requires this environment to exist.
 ```bash
 # Create a virtual environment in the 'automation' folder
-python -m venv automation\venv
+python -m venv automation\venv --system-site-packages 
 
 # Activate the virtual environment
 .\automation\venv\Scripts\Activate.ps1
